@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pranav garg</h1>
-<h3 align="center">A passionate Web developer & UI/UX designer</h3>
+<h3 align="center">A Full-Stack Developer & UI/UX designer</h3>
 <img align="right" alt="work" width="350" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav140&label=Profile%20views&color=0e75b6&style=flat" alt="pranav140" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 💬 Ask me about **React , Node, APIs , Designs**
 
-- 💬 Ask me about **Frontend , designs**
-
-- 📫 How to reach me **gargpranav851@gmail.com**
+- 📫 How to reach me **gargpranav.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
