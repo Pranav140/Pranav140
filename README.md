@@ -96,14 +96,23 @@ const pranav = {
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Pranav140&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav140&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav140&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" height="180"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav140&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pranav140&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pranav140&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+
+</div>
+
+---
+
+## 🗂️ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav140&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav140&theme=tokyonight" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav140&theme=tokyonight" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav140&theme=tokyonight" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav140&theme=tokyonight&utcOffset=+5.5" />
 
 </div>
 
@@ -113,7 +122,7 @@ const pranav = {
 
 <div align="center">
 
-[![Pranav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav140&theme=tokyo-night&hide_border=true&area=true&area_color=1f6feb&color=58a6ff&line=1f6feb&point=ffffff&custom_title=Pranav's%20Contribution%20Graph)](https://github.com/Pranav140)
+[![Pranav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav140&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Pranav%27s%20Contribution%20Timeline)](https://github.com/Pranav140)
 
 </div>
 
@@ -127,20 +136,6 @@ const pranav = {
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Pranav140/Pranav140/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav140/Pranav140/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pranav140/Pranav140/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎮 Pac-Man eats my Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Pranav140/Pranav140/output/pacman-contribution-graph.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav140/Pranav140/output/pacman-contribution-graph.svg" />
-  <img alt="pacman-graph" src="https://raw.githubusercontent.com/Pranav140/Pranav140/output/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
