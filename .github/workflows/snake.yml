@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  generate-snake:
+  generate-animations:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -22,7 +22,19 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to Output Branch
+      - name: Generate Pac-Man Animation
+        uses: timburrell/pacman-contribution-graph@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_SLUG: ${{ github.repository_owner }}
+
+      - name: Move Pac-Man output to dist
+        run: |
+          mkdir -p dist
+          find . -maxdepth 1 -name "*.svg" -o -name "*.gif" | grep -i pac | xargs -I{} mv {} dist/ 2>/dev/null || true
+          ls -la dist/
+
+      - name: Push Animations to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
