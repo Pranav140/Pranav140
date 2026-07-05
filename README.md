@@ -92,17 +92,11 @@ const pranav = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav140&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" height="180"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav140&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
-
-<br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pranav140&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav140&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
 
 ---
 
